@@ -26,7 +26,8 @@
                 "@dtos/*": ["./src/app/dtos/*"],
                 "@db/*": ["./src/app/db/*"]
             }
-        }
+        },
+        "exclude": [".src/ui"]
     },
     "compilerOptions": {
         "target": "es2016",
@@ -52,5 +53,6 @@
             "@dtos/*": ["./src/app/dtos/*"],
             "@db/*": ["./src/app/db/*"]
         }
-    }
+    },
+    "exclude": [".src/ui"]
 }
