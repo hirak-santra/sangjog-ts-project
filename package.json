@@ -11,7 +11,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "sangjog": "~0.4.0"
+    "sangjog": "~0.5.0"
   },
   "devDependencies": {
     "@types/node": "~18.7.18",
