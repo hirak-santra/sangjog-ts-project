@@ -6,6 +6,7 @@ To start development you have use [Sangjog-cli](https://www.npmjs.com/package/sa
 ## Features
 - API First Approach
 - Best for `SPA`
+- Simple Config control for `HTTP and HTTPS enabling`
 - `Strict Structural` Framework
 - Sangjog Project is built on `Typescript`
 - `Object oriented` and `type safe` project
