@@ -5,5 +5,4 @@ Environment.setup();
 
 //App started from here
 import Application from "./src/Application";
-Sangjog.register(Application);
-Sangjog.run();
+Sangjog.bootstrap(Application);
