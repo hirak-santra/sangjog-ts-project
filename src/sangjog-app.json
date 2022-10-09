@@ -1,6 +1,10 @@
 {
     "sangjog": {
-        "buildPath": "./build"
+        "buildPath": "./build",
+        "sslOptions": {
+            "key": "./ssl/key.pem",
+            "cert": "./ssl/cert.pem"
+        }
     },
     "application": {
         
