@@ -19,11 +19,14 @@
         "baseUrl": ".",
         "paths": {
             "@controllers/*": ["./src/app/@controllers/*"],
-            "@services/*": ["./src/app/@services/*"],
+            "@data/*": ["./src/app/@data/*"],
+            "@db-connection/*": ["./src/app/@db-connection/*"],
             "@db-operations/*": ["./src/app/@db-operations/*"],
-            "@http-interceptors/*": ["./src/app/@http-interceptors/*"],
             "@dtos/*": ["./src/app/@dtos/*"],
-            "@db-connection/*": ["./src/app/@db-connection/*"]
+            "@http-interceptors/*": ["./src/app/@http-interceptors/*"],
+            "@impl/*": ["./src/app/@impl/*"],            
+            "@services/*": ["./src/app/@services/*"],
+            "@utils/*": ["./src/app/@services/*"]           
         }
     },
     "include": ["./*"],
