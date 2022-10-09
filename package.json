@@ -11,11 +11,10 @@
   },
   "license": "ISC",
   "dependencies": {
-    "sangjog": "~0.5.0"
+    "sangjog": "0.5.1"
   },
   "devDependencies": {
     "@types/node": "~18.7.18",
-    "nodemon": "~2.0.20",
     "ts-node": "~10.9.1",
     "tsconfig-paths": "~4.1.0",
     "typescript": "~4.7.4"
