@@ -195,6 +195,7 @@ export default class AppMiddlewire implements Middlewire {
 ### Register API URL
 Now you can hit the API with the below url:
 `http://localhost:8080/api/client/v0/user/list`
+`http://localhost:8080/api/admin/v0/user`
 and UI:
 `http://localhost:8080`
 `http://localhost:8080/admin`
