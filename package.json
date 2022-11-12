@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "sangjog": "0.7.0"
+    "sangjog": "0.7.1"
   },
   "devDependencies": {
     "@types/node": "~18.7.18",
